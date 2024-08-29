@@ -8,5 +8,6 @@
 > this will install all node_modules
 **then write in cli this**
 ```
->npm run start
+> npm run start
 ```
+**Build From **[reac-dev](https://react.dev/learn/tutorial-tic-tac-toe)****
