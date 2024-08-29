@@ -7,4 +7,6 @@
 
 > this will install all node_modules
 **then write in cli this**
+```
 >npm run start
+```
